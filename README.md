@@ -1,6 +1,6 @@
 # Psychtoolbox Visual Search Task
 
-A MATLAB implementation of a **Visual Search Experiment** developed using **Psychtoolbox** for **NeuroLab Course – Assignment 2**.
+A MATLAB implementation of a **Visual Search Experiment** developed using **Psychtoolbox** for **NeuroLab Course**.
 
 ---
 
